@@ -38,4 +38,4 @@ client.on("message", async message => {
   if (!cmd) return;
 });
 
-client.login("NzQxOTQ1Mzk3Mzc4ODA5OTI2.Xy-8fw.AVKayp1GGhVIRNppj42YW1vxLEg");
+client.login("");
